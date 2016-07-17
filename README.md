@@ -1,1 +1,1 @@
-# lifecoding
+Git 강좌입니다.
